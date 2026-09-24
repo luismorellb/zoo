@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("Reach no tardó mucho en caer, el enemigo era implacable, eficiente... Pero no fue lo suficientemente rápido, porque tú ya habías pasado la antorcha, gracias a ti encontramos el Halo. Revelamos sus secretos. Acabamos con la determinación del enemigo...Nuestra victoria, la tuya... Estaba tan cerca... Ojalá hubieras vivido para verla. Pero perteneces a Reach.. Tu cuerpo... Tu armadura... Todo quemado y convertido en cristal. Todo. Menos... Tu coraje... Ese, fue tu regalo.")
